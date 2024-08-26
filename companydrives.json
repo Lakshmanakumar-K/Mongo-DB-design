@@ -1,0 +1,164 @@
+[
+    {
+      "company": "TechCorp",
+      "date": "01-Oct-2020",
+      "role_offered": "Software Engineer",
+      "students_appeared": ["John Doe", "Jane Smith", "Michael Brown"],
+      "students_selected": ["John Doe", "Jane Smith"]
+    },
+    {
+      "company": "Innovate Ltd.",
+      "date": "05-Oct-2020",
+      "role_offered": "Data Scientist",
+      "students_appeared": ["Emily White", "Chris Green", "Laura Wilson"],
+      "students_selected": ["Emily White"]
+    },
+    {
+      "company": "GlobalTech",
+      "date": "08-Oct-2020",
+      "role_offered": "Product Manager",
+      "students_appeared": ["David Taylor", "Sophia Martinez", "James Anderson"],
+      "students_selected": ["David Taylor", "James Anderson"]
+    },
+    {
+      "company": "NextGen Solutions",
+      "date": "12-Oct-2020",
+      "role_offered": "UX Designer",
+      "students_appeared": ["Olivia Thomas", "Daniel Harris", "Mia Clark"],
+      "students_selected": ["Olivia Thomas"]
+    },
+    {
+      "company": "TechWorks",
+      "date": "15-Oct-2020",
+      "role_offered": "Network Engineer",
+      "students_appeared": ["Ethan Rodriguez", "Ava Lewis", "Noah Walker"],
+      "students_selected": ["Ethan Rodriguez", "Ava Lewis"]
+    },
+    {
+      "company": "FutureTech",
+      "date": "19-Oct-2020",
+      "role_offered": "Business Analyst",
+      "students_appeared": ["Lily Young", "Benjamin King", "Isabella Wright"],
+      "students_selected": ["Lily Young", "Benjamin King"]
+    },
+    {
+      "company": "DataCorp",
+      "date": "22-Oct-2020",
+      "role_offered": "Machine Learning Engineer",
+      "students_appeared": ["Charlotte Baker", "John Doe", "Jane Smith"],
+      "students_selected": ["Charlotte Baker", "Jane Smith"]
+    },
+    {
+      "company": "Innovative Minds",
+      "date": "26-Oct-2020",
+      "role_offered": "Software Developer",
+      "students_appeared": ["Michael Brown", "Emily White", "Chris Green"],
+      "students_selected": ["Michael Brown"]
+    },
+    {
+      "company": "Creative Solutions",
+      "date": "30-Oct-2020",
+      "role_offered": "Database Administrator",
+      "students_appeared": ["Laura Wilson", "David Taylor", "Sophia Martinez"],
+      "students_selected": ["David Taylor", "Sophia Martinez"]
+    },
+    {
+      "company": "Techie Inc.",
+      "date": "02-Nov-2020",
+      "role_offered": "Front End Developer",
+      "students_appeared": ["James Anderson", "Olivia Thomas", "Daniel Harris"],
+      "students_selected": ["James Anderson"]
+    },
+    {
+      "company": "WebWorld",
+      "date": "06-Nov-2020",
+      "role_offered": "Back End Developer",
+      "students_appeared": ["Mia Clark", "Ethan Rodriguez", "Ava Lewis"],
+      "students_selected": ["Mia Clark", "Ethan Rodriguez"]
+    },
+    {
+      "company": "Bright Future",
+      "date": "10-Nov-2020",
+      "role_offered": "System Analyst",
+      "students_appeared": ["Noah Walker", "Lily Young", "Benjamin King"],
+      "students_selected": ["Noah Walker"]
+    },
+    {
+      "company": "Data Dynamics",
+      "date": "13-Nov-2020",
+      "role_offered": "Data Analyst",
+      "students_appeared": ["Isabella Wright", "Charlotte Baker", "John Doe"],
+      "students_selected": ["Isabella Wright", "Charlotte Baker"]
+    },
+    {
+      "company": "TechnoLabs",
+      "date": "17-Nov-2020",
+      "role_offered": "Software Tester",
+      "students_appeared": ["Jane Smith", "Michael Brown", "Emily White"],
+      "students_selected": ["Michael Brown", "Emily White"]
+    },
+    {
+      "company": "Innovative Tech",
+      "date": "20-Nov-2020",
+      "role_offered": "Frontend Developer",
+      "students_appeared": ["Chris Green", "David Taylor", "Laura Wilson"],
+      "students_selected": ["Chris Green", "David Taylor"]
+    },
+    {
+      "company": "TechWave",
+      "date": "23-Nov-2020",
+      "role_offered": "Backend Developer",
+      "students_appeared": ["Sophia Martinez", "James Anderson", "Olivia Thomas"],
+      "students_selected": ["James Anderson", "Olivia Thomas"]
+    },
+    {
+      "company": "FutureWorks",
+      "date": "25-Nov-2020",
+      "role_offered": "Product Designer",
+      "students_appeared": ["Daniel Harris", "Mia Clark", "Ethan Rodriguez"],
+      "students_selected": ["Daniel Harris", "Ethan Rodriguez"]
+    },
+    {
+      "company": "Data Innovations",
+      "date": "27-Nov-2020",
+      "role_offered": "Database Developer",
+      "students_appeared": ["Ava Lewis", "Noah Walker", "Lily Young"],
+      "students_selected": ["Ava Lewis"]
+    },
+    {
+      "company": "Global Dynamics",
+      "date": "30-Nov-2020",
+      "role_offered": "Business Development",
+      "students_appeared": ["Benjamin King", "Isabella Wright", "Charlotte Baker"],
+      "students_selected": ["Benjamin King", "Charlotte Baker"]
+    },
+    {
+      "company": "TechWorks Ltd.",
+      "date": "02-Oct-2020",
+      "role_offered": "Systems Engineer",
+      "students_appeared": ["John Doe", "Jane Smith", "Michael Brown"],
+      "students_selected": ["John Doe", "Michael Brown"]
+    },
+    {
+      "company": "Innovative Labs",
+      "date": "09-Oct-2020",
+      "role_offered": "Technical Support",
+      "students_appeared": ["Emily White", "Chris Green", "Laura Wilson"],
+      "students_selected": ["Emily White"]
+    },
+    {
+      "company": "Bright Minds",
+      "date": "16-Oct-2020",
+      "role_offered": "Software Architect",
+      "students_appeared": ["David Taylor", "Sophia Martinez", "James Anderson"],
+      "students_selected": ["David Taylor"]
+    },
+    {
+      "company": "NextGen Tech",
+      "date": "23-Oct-2020",
+      "role_offered": "DevOps Engineer",
+      "students_appeared": ["Olivia Thomas", "Daniel Harris", "Mia Clark"],
+      "students_selected": ["Olivia Thomas", "Daniel Harris"]
+    }
+  ]
+  

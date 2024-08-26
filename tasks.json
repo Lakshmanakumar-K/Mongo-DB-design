@@ -1,0 +1,407 @@
+[
+    {
+        "task_name": "Task A",
+        "assigned_date": "15-Sep-2020",
+        "due_date": "01-Oct-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "30-Sep-2020",
+        "score": 85
+    },
+    {
+        "task_name": "Task A",
+        "assigned_date": "15-Sep-2020",
+        "due_date": "01-Oct-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "29-Sep-2020",
+        "score": 88
+    },
+    {
+        "task_name": "Task A",
+        "assigned_date": "15-Sep-2020",
+        "due_date": "01-Oct-2020",
+        "UserID": 3,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task A",
+        "assigned_date": "15-Sep-2020",
+        "due_date": "01-Oct-2020",
+        "UserID": 4,
+        "IsSubmitted": true,
+        "Submitted_date": "28-Sep-2020",
+        "score": 90
+    },
+    {
+        "task_name": "Task A",
+        "assigned_date": "15-Sep-2020",
+        "due_date": "01-Oct-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "27-Sep-2020",
+        "score": 82
+    },
+    {
+        "task_name": "Task B",
+        "assigned_date": "20-Sep-2020",
+        "due_date": "10-Oct-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Oct-2020",
+        "score": 87
+    },
+    {
+        "task_name": "Task B",
+        "assigned_date": "20-Sep-2020",
+        "due_date": "10-Oct-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "08-Oct-2020",
+        "score": 92
+    },
+    {
+        "task_name": "Task B",
+        "assigned_date": "20-Sep-2020",
+        "due_date": "10-Oct-2020",
+        "UserID": 3,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task B",
+        "assigned_date": "20-Sep-2020",
+        "due_date": "10-Oct-2020",
+        "UserID": 4,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Oct-2020",
+        "score": 85
+    },
+    {
+        "task_name": "Task B",
+        "assigned_date": "20-Sep-2020",
+        "due_date": "10-Oct-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Oct-2020",
+        "score": 88
+    },
+    {
+        "task_name": "Task C",
+        "assigned_date": "01-Oct-2020",
+        "due_date": "20-Oct-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "19-Oct-2020",
+        "score": 90
+    },
+    {
+        "task_name": "Task C",
+        "assigned_date": "01-Oct-2020",
+        "due_date": "20-Oct-2020",
+        "UserID": 2,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task C",
+        "assigned_date": "01-Oct-2020",
+        "due_date": "20-Oct-2020",
+        "UserID": 3,
+        "IsSubmitted": true,
+        "Submitted_date": "18-Oct-2020",
+        "score": 89
+    },
+    {
+        "task_name": "Task C",
+        "assigned_date": "01-Oct-2020",
+        "due_date": "20-Oct-2020",
+        "UserID": 4,
+        "IsSubmitted": true,
+        "Submitted_date": "19-Oct-2020",
+        "score": 87
+    },
+    {
+        "task_name": "Task C",
+        "assigned_date": "01-Oct-2020",
+        "due_date": "20-Oct-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "18-Oct-2020",
+        "score": 85
+    },
+    {
+        "task_name": "Task D",
+        "assigned_date": "15-Oct-2020",
+        "due_date": "01-Nov-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "30-Oct-2020",
+        "score": 91
+    },
+    {
+        "task_name": "Task D",
+        "assigned_date": "15-Oct-2020",
+        "due_date": "01-Nov-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "29-Oct-2020",
+        "score": 89
+    },
+    {
+        "task_name": "Task D",
+        "assigned_date": "15-Oct-2020",
+        "due_date": "01-Nov-2020",
+        "UserID": 3,
+        "IsSubmitted": true,
+        "Submitted_date": "30-Oct-2020",
+        "score": 87
+    },
+    {
+        "task_name": "Task D",
+        "assigned_date": "15-Oct-2020",
+        "due_date": "01-Nov-2020",
+        "UserID": 4,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task D",
+        "assigned_date": "15-Oct-2020",
+        "due_date": "01-Nov-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "31-Oct-2020",
+        "score": 82
+    },
+    {
+        "task_name": "Task E",
+        "assigned_date": "20-Oct-2020",
+        "due_date": "10-Nov-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Nov-2020",
+        "score": 88
+    },
+    {
+        "task_name": "Task E",
+        "assigned_date": "20-Oct-2020",
+        "due_date": "10-Nov-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "08-Nov-2020",
+        "score": 90
+    },
+    {
+        "task_name": "Task E",
+        "assigned_date": "20-Oct-2020",
+        "due_date": "10-Nov-2020",
+        "UserID": 3,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task E",
+        "assigned_date": "20-Oct-2020",
+        "due_date": "10-Nov-2020",
+        "UserID": 4,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Nov-2020",
+        "score": 87
+    },
+    {
+        "task_name": "Task E",
+        "assigned_date": "20-Oct-2020",
+        "due_date": "10-Nov-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "08-Nov-2020",
+        "score": 85
+    },
+    {
+        "task_name": "Task F",
+        "assigned_date": "25-Oct-2020",
+        "due_date": "15-Nov-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "14-Nov-2020",
+        "score": 89
+    },
+    {
+        "task_name": "Task F",
+        "assigned_date": "25-Oct-2020",
+        "due_date": "15-Nov-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "13-Nov-2020",
+        "score": 92
+    },
+    {
+        "task_name": "Task F",
+        "assigned_date": "25-Oct-2020",
+        "due_date": "15-Nov-2020",
+        "UserID": 3,
+        "IsSubmitted": true,
+        "Submitted_date": "14-Nov-2020",
+        "score": 88
+    },
+    {
+        "task_name": "Task F",
+        "assigned_date": "25-Oct-2020",
+        "due_date": "15-Nov-2020",
+        "UserID": 4,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task F",
+        "assigned_date": "25-Oct-2020",
+        "due_date": "15-Nov-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "14-Nov-2020",
+        "score": 86
+    },
+    {
+        "task_name": "Task G",
+        "assigned_date": "01-Nov-2020",
+        "due_date": "20-Nov-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "19-Nov-2020",
+        "score": 91
+    },
+    {
+        "task_name": "Task G",
+        "assigned_date": "01-Nov-2020",
+        "due_date": "20-Nov-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "18-Nov-2020",
+        "score": 89
+    },
+    {
+        "task_name": "Task G",
+        "assigned_date": "01-Nov-2020",
+        "due_date": "20-Nov-2020",
+        "UserID": 3,
+        "IsSubmitted": true,
+        "Submitted_date": "18-Nov-2020",
+        "score": 87
+    },
+    {
+        "task_name": "Task G",
+        "assigned_date": "01-Nov-2020",
+        "due_date": "20-Nov-2020",
+        "UserID": 4,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task G",
+        "assigned_date": "01-Nov-2020",
+        "due_date": "20-Nov-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "19-Nov-2020",
+        "score": 88
+    },
+    {
+        "task_name": "Task H",
+        "assigned_date": "10-Nov-2020",
+        "due_date": "30-Nov-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "29-Nov-2020",
+        "score": 93
+    },
+    {
+        "task_name": "Task H",
+        "assigned_date": "10-Nov-2020",
+        "due_date": "30-Nov-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "28-Nov-2020",
+        "score": 91
+    },
+    {
+        "task_name": "Task H",
+        "assigned_date": "10-Nov-2020",
+        "due_date": "30-Nov-2020",
+        "UserID": 3,
+        "IsSubmitted": true,
+        "Submitted_date": "29-Nov-2020",
+        "score": 89
+    },
+    {
+        "task_name": "Task H",
+        "assigned_date": "10-Nov-2020",
+        "due_date": "30-Nov-2020",
+        "UserID": 4,
+        "IsSubmitted": true,
+        "Submitted_date": "28-Nov-2020",
+        "score": 87
+    },
+    {
+        "task_name": "Task H",
+        "assigned_date": "10-Nov-2020",
+        "due_date": "30-Nov-2020",
+        "UserID": 5,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task I",
+        "assigned_date": "20-Nov-2020",
+        "due_date": "10-Dec-2020",
+        "UserID": 1,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Dec-2020",
+        "score": 92
+    },
+    {
+        "task_name": "Task I",
+        "assigned_date": "20-Nov-2020",
+        "due_date": "10-Dec-2020",
+        "UserID": 2,
+        "IsSubmitted": true,
+        "Submitted_date": "08-Dec-2020",
+        "score": 90
+    },
+    {
+        "task_name": "Task I",
+        "assigned_date": "20-Nov-2020",
+        "due_date": "10-Dec-2020",
+        "UserID": 3,
+        "IsSubmitted": false,
+        "Submitted_date": null,
+        "score": null
+    },
+    {
+        "task_name": "Task I",
+        "assigned_date": "20-Nov-2020",
+        "due_date": "10-Dec-2020",
+        "UserID": 4,
+        "IsSubmitted": true,
+        "Submitted_date": "09-Dec-2020",
+        "score": 89
+    },
+    {
+        "task_name": "Task I",
+        "assigned_date": "20-Nov-2020",
+        "due_date": "10-Dec-2020",
+        "UserID": 5,
+        "IsSubmitted": true,
+        "Submitted_date": "08-Dec-2020",
+        "score": 88
+    }
+]

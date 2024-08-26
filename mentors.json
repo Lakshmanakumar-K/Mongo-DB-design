@@ -1,0 +1,38 @@
+[
+    {
+      "mentorId": 1,
+      "mentor_name": "Dr. Jessica Miller",
+      "mentor_email": "jessica.miller@example.com",
+      "courses": ["Data Science", "Big Data"],
+      "students": 18
+    },
+    {
+      "mentorId": 2,
+      "mentor_name": "Mr. Andrew Wilson",
+      "mentor_email": "andrew.wilson@example.com",
+      "courses": ["Web Development", "JavaScript"],
+      "students": 14
+    },
+    {
+      "mentorId": 3,
+      "mentor_name": "Ms. Natalie Brooks",
+      "mentor_email": "natalie.brooks@example.com",
+      "courses": ["Machine Learning", "Data Analysis"],
+      "students": 20
+    },
+    {
+      "mentorId": 4,
+      "mentor_name": "Dr. Robert Lee",
+      "mentor_email": "robert.lee@example.com",
+      "courses": ["Cloud Computing", "DevOps"],
+      "students": 12
+    },
+    {
+      "mentorId": 5,
+      "mentor_name": "Ms. Ava Johnson",
+      "mentor_email": "ava.johnson@example.com",
+      "courses": ["Cybersecurity", "Network Security"],
+      "students": 16
+    }
+  ]
+  

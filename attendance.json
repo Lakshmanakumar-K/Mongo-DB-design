@@ -1,0 +1,363 @@
+[
+  {
+    "date": "5-Oct-2020",
+    "UserId": 1,
+    "User_name": "John Doe",
+    "isPresent": true
+  },
+  {
+    "date": "5-Oct-2020",
+    "UserId": 2,
+    "User_name": "Jane Smith",
+    "isPresent": false
+  },
+  {
+    "date": "5-Oct-2020",
+    "UserId": 3,
+    "User_name": "Michael Brown",
+    "isPresent": true
+  },
+  {
+    "date": "5-Oct-2020",
+    "UserId": 4,
+    "User_name": "Emily White",
+    "isPresent": true
+  },
+  {
+    "date": "5-Oct-2020",
+    "UserId": 5,
+    "User_name": "Chris Green",
+    "isPresent": false
+  },
+    {
+      "date": "15-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "15-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": false
+    },
+    {
+      "date": "15-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "15-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "15-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": false
+    },
+    {
+      "date": "16-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": false
+    },
+    {
+      "date": "16-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": true
+    },
+    {
+      "date": "16-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "16-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": false
+    },
+    {
+      "date": "16-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": true
+    },
+    {
+      "date": "17-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "17-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": false
+    },
+    {
+      "date": "17-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "17-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "17-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": false
+    },
+    {
+      "date": "18-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": false
+    },
+    {
+      "date": "18-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": true
+    },
+    {
+      "date": "18-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": false
+    },
+    {
+      "date": "18-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "18-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": true
+    },
+    {
+      "date": "19-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "19-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": false
+    },
+    {
+      "date": "19-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "19-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": false
+    },
+    {
+      "date": "19-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": true
+    },
+    {
+      "date": "20-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": false
+    },
+    {
+      "date": "20-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": true
+    },
+    {
+      "date": "20-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "20-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "20-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": false
+    },
+    {
+      "date": "21-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "21-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": false
+    },
+    {
+      "date": "21-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "21-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": false
+    },
+    {
+      "date": "21-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": true
+    },
+    {
+      "date": "22-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "22-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": true
+    },
+    {
+      "date": "22-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": false
+    },
+    {
+      "date": "22-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "22-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": false
+    },
+    {
+      "date": "23-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": false
+    },
+    {
+      "date": "23-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": true
+    },
+    {
+      "date": "23-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "23-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": false
+    },
+    {
+      "date": "23-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": true
+    },
+    {
+      "date": "24-Oct-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "24-Oct-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": false
+    },
+    {
+      "date": "24-Oct-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "24-Oct-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "24-Oct-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": false
+    },
+    {
+      "date": "05-Nov-2020",
+      "UserId": 1,
+      "User_name": "John Doe",
+      "isPresent": true
+    },
+    {
+      "date": "05-Nov-2020",
+      "UserId": 2,
+      "User_name": "Jane Smith",
+      "isPresent": false
+    },
+    {
+      "date": "05-Nov-2020",
+      "UserId": 3,
+      "User_name": "Michael Brown",
+      "isPresent": true
+    },
+    {
+      "date": "05-Nov-2020",
+      "UserId": 4,
+      "User_name": "Emily White",
+      "isPresent": true
+    },
+    {
+      "date": "05-Nov-2020",
+      "UserId": 5,
+      "User_name": "Chris Green",
+      "isPresent": false
+    }
+  ]
+  
